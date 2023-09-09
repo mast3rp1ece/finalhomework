@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/finalhomework/static/css/main.17f80522.css",
-    "main.js": "/finalhomework/static/js/main.49924a64.js",
+    "main.css": "/finalhomework/static/css/main.ef36839c.css",
+    "main.js": "/finalhomework/static/js/main.ca3e7b9c.js",
     "static/js/787.4922d6ff.chunk.js": "/finalhomework/static/js/787.4922d6ff.chunk.js",
+    "static/media/events1.png": "/finalhomework/static/media/events1.f4806450c867cfe4bdf6.png",
+    "static/media/post1.png": "/finalhomework/static/media/post1.3c5698c6ba7d53033e5f.png",
     "static/media/contimg.png": "/finalhomework/static/media/contimg.d01adafab5e186d051a7.png",
     "static/media/worksphoto2.jpg": "/finalhomework/static/media/worksphoto2.e95fa68c2432df9879aa.jpg",
     "static/media/ya4.jpg": "/finalhomework/static/media/ya4.30d9624bfb3a70e53687.jpg",
+    "static/media/generator2.png": "/finalhomework/static/media/generator2.294dbfb39ab03645aab3.png",
+    "static/media/events2.png": "/finalhomework/static/media/events2.d09c2ed1757a87231dfb.png",
+    "static/media/generator1.png": "/finalhomework/static/media/generator1.f95205236d45170aae8a.png",
+    "static/media/form2.png": "/finalhomework/static/media/form2.f440b822232869463e17.png",
+    "static/media/form1.png": "/finalhomework/static/media/form1.b8ffc5717efa558f0dc7.png",
+    "static/media/post2.png": "/finalhomework/static/media/post2.14da295e9ca93e3f7b89.png",
     "index.html": "/finalhomework/index.html",
-    "main.17f80522.css.map": "/finalhomework/static/css/main.17f80522.css.map",
-    "main.49924a64.js.map": "/finalhomework/static/js/main.49924a64.js.map",
+    "main.ef36839c.css.map": "/finalhomework/static/css/main.ef36839c.css.map",
+    "main.ca3e7b9c.js.map": "/finalhomework/static/js/main.ca3e7b9c.js.map",
     "787.4922d6ff.chunk.js.map": "/finalhomework/static/js/787.4922d6ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17f80522.css",
-    "static/js/main.49924a64.js"
+    "static/css/main.ef36839c.css",
+    "static/js/main.ca3e7b9c.js"
   ]
 }
