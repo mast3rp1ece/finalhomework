@@ -1,13 +1,28 @@
 {
   "files": {
     "main.css": "/finalhomework/static/css/main.ef36839c.css",
-    "main.js": "/finalhomework/static/js/main.c5b52e06.js",
+    "main.js": "/finalhomework/static/js/main.a82aca40.js",
     "static/js/787.4922d6ff.chunk.js": "/finalhomework/static/js/787.4922d6ff.chunk.js",
     "static/media/events1.png": "/finalhomework/static/media/events1.f4806450c867cfe4bdf6.png",
+    "static/media/event2.jpg": "/finalhomework/static/media/event2.06acbf29b4813bf69d5b.jpg",
+    "static/media/event1.jpg": "/finalhomework/static/media/event1.bcd71fa034bdc48c2831.jpg",
+    "static/media/publish4.jpg": "/finalhomework/static/media/publish4.31fd1dcb7c0f7671d237.jpg",
     "static/media/post1.png": "/finalhomework/static/media/post1.3c5698c6ba7d53033e5f.png",
     "static/media/contimg.png": "/finalhomework/static/media/contimg.d01adafab5e186d051a7.png",
+    "static/media/publish1.jpg": "/finalhomework/static/media/publish1.c16634c92ea87bc837cb.jpg",
     "static/media/worksphoto2.jpg": "/finalhomework/static/media/worksphoto2.e95fa68c2432df9879aa.jpg",
     "static/media/ya4.jpg": "/finalhomework/static/media/ya4.30d9624bfb3a70e53687.jpg",
+    "static/media/event3.jpg": "/finalhomework/static/media/event3.e50f0d4fbc81a409825b.jpg",
+    "static/media/gen4.jpg": "/finalhomework/static/media/gen4.15f5ebb47dfd93743cff.jpg",
+    "static/media/publish3.jpg": "/finalhomework/static/media/publish3.13e0d8408822e1f87ac1.jpg",
+    "static/media/publish2.jpg": "/finalhomework/static/media/publish2.976e18c6eaab369313f3.jpg",
+    "static/media/signform2.jpg": "/finalhomework/static/media/signform2.9d2ac78f4e3aaa5aa1f1.jpg",
+    "static/media/signform4.jpg": "/finalhomework/static/media/signform4.ed304c445c004cf09b81.jpg",
+    "static/media/gen3.jpg": "/finalhomework/static/media/gen3.2ff3e7a8c2465e1548c3.jpg",
+    "static/media/signform3.jpg": "/finalhomework/static/media/signform3.8e6992434b04060a5cd8.jpg",
+    "static/media/gen2.jpg": "/finalhomework/static/media/gen2.ddf8cb3abdbfea06b412.jpg",
+    "static/media/signform1.jpg": "/finalhomework/static/media/signform1.dd3a423879576820a26f.jpg",
+    "static/media/gen1.jpg": "/finalhomework/static/media/gen1.29abf6fbb3bcab8596e3.jpg",
     "static/media/generator2.png": "/finalhomework/static/media/generator2.294dbfb39ab03645aab3.png",
     "static/media/events2.png": "/finalhomework/static/media/events2.d09c2ed1757a87231dfb.png",
     "static/media/generator1.png": "/finalhomework/static/media/generator1.f95205236d45170aae8a.png",
@@ -16,11 +31,11 @@
     "static/media/post2.png": "/finalhomework/static/media/post2.14da295e9ca93e3f7b89.png",
     "index.html": "/finalhomework/index.html",
     "main.ef36839c.css.map": "/finalhomework/static/css/main.ef36839c.css.map",
-    "main.c5b52e06.js.map": "/finalhomework/static/js/main.c5b52e06.js.map",
+    "main.a82aca40.js.map": "/finalhomework/static/js/main.a82aca40.js.map",
     "787.4922d6ff.chunk.js.map": "/finalhomework/static/js/787.4922d6ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef36839c.css",
-    "static/js/main.c5b52e06.js"
+    "static/js/main.a82aca40.js"
   ]
 }
